@@ -1,0 +1,9 @@
+data/test/billgates
+data/test/zuckerberg
+data/test/elonmusk
+data/train/billgates
+data/train/zuckerberg
+data/train/elonmusk
+static/images/cut_face
+static/images/face_detect
+static/images/default
